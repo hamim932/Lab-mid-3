@@ -1,15 +1,13 @@
 ﻿using System;
 
-namespace Lab 3
+namespace mid Lab 3
 {
     class Program
     {
-        static void Main(string[] args)
-
-    {
+        static void Main(string[] args
 
     }
-}
+
 
 class Student
 {
